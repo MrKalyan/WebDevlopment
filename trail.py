@@ -40,7 +40,7 @@ def txt():
 
 	# Write the specified text in
 	# specified font style and size
-	pen.write("Love You kavvu", font=(
+	pen.write("Love You ", font=(
 	"Verdana", 12, "bold"))
 
 heart()
